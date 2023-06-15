@@ -2,7 +2,7 @@
   "name": "qr_auth_client",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Indu936.github.io/qr_auth_client_test",
+  "homepage": "https://ChathuraDWeerasinghe.github.io/qr_client",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
